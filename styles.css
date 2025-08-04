@@ -15,4 +15,6 @@ header {
     background: rgb(244, 130, 244);
     padding-bottom: 50px ;
     padding-top: 50px ;
+    display: flex;
+    justify-content: center;
  }
